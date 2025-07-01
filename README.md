@@ -34,12 +34,25 @@ I’m Nitisha Sharma, currently pursuing M.Sc. in Data Science from Amity Univer
 
 ---
 
-### 📌 Pinned Projects  
-- 📁 **Amazon Sales Analysis** – Python-based EDA & KPIs  
-- 📁 **Heart Disease Dashboard** – Tableau insights and visuals  
-- 📁 **World Population EDA** – Prodigy Internship Task  
-- 📁 **Bank Marketing ML Model** – ML Classification on real data
+### 📌 Pinned Projects
+
+#### 🚀 Prodigy InfoTech Internship – June 2025
+- 📊 **World Population EDA** – Visualized global population patterns  
+- 🚢 **Titanic Visualization** – Survival analysis by age, gender, class  
+- 🌳 **Bank Marketing ML** – Predictive model using decision tree  
+- 💬 **Twitter Sentiment Analysis** – NLP-based tweet classification  
+- 🚧 **US Accidents EDA** – Crash pattern analysis (March 2023)
+
+#### 🛒 InnoByte Internship – June 2025
+- 📈 **Sales Overview** – Trends, top dates, revenue insights  
+- 📦 **Product Analysis** – Category-wise quantity & revenue  
+- 🚚 **Fulfillment Report** – Return rate, order success %  
+- 🧍 **Customer Segmentation** – State-level buyer insights  
+- 🌍 **Geographical Analysis** – Map-based city/state sales  
+- 🧠 **Business Insights** – Key takeaways & suggestions
 
 ---
 
 _✨ Let’s connect and grow together in the world of Data Science!_
+
+---
